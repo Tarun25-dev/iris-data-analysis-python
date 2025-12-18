@@ -1,0 +1,18 @@
+Dataset Name: Iris Flower Dataset
+Source: scikit-learn
+
+Description:
+The Iris dataset is a well-known benchmark dataset used in research and data analysis.
+It contains measurements of iris flowers from three species.
+
+Samples: 150
+Features: 4
+
+Feature List:
+>sepal length (cm)
+>sepal width (cm)
+>petal length (cm)
+>petal width (cm)
+
+Target Variable:
+Species (encoded values)
